@@ -142,7 +142,7 @@ div.video{
     padding: 10px;
 }
 div.video> iframe {
-    max-width: 500px;
+    max-width: 460px;
     display: block;
     margin: 0 auto;
 }
